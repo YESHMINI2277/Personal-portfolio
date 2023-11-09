@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="UTF=8">
+     <title>Your Name  - Protofolio</title>
+     <link rel="stylesheet"type/css" href="style.css">
+</head>
+<body>
+
+</body>
+</html>
+<header>
+	<h1>YESHMINI.J<?h1>
+</header>
+
+<section id="about">
+	<h2>About me</h2>
+	<p>Help everyone</p>
+<p>This is my protfolio website where you can known everything about</p>
+<p>I'm in finakl year of bachelor of vocational (Information Technology)</p>
+<p>I'm currently learning python language and development</p>
+</section>
+<section id="portfolio</h2>
+ 	<h2>portfolio">
+  	<image src="by.jpeg"alt="description of pic">
+<p>This my internship and thankyou for giving opportunity!</p>
+</section>
+<section id="contact">
+	<h2>contact Me</h2>
+        <p>Email: ishu10475@email.com</p>
+</section> 
+
+
+CSS CODE:
+
+body{
+     Font-family: merlin;
+     background-color: #FFAE42;
+    margi: 0:
+    padding: 0;
+}
+header {
+       background-color: #FFA500;
+       Color: #fff;
+       test align: center;
+        Padding: 1rem;
+}
+h1 {
+          Font- size: 2rem;
+}
+#about,   #portfolio,    #contact {
+ Padding: 2rem;
+}
